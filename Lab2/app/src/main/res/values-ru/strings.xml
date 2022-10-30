@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Приложение</string>
+    <string name="enter_text">Введите текст ниже:</string>
+    <string name="enter_text_here">Введите текст</string>
+</resources>
